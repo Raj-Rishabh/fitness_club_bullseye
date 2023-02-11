@@ -97,7 +97,7 @@ const FitnessClubRegistration = () => {
               </div>
             </form>
             {showMessage &&
-              prompt("User added successfully!", "Thankyou for registration")}
+              "User added successfully!"}
             {/* <Prompt when={showMessage} message="User added successfully!" /> */}
           </div>
         </div>
